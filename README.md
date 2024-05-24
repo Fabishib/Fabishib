@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**Fabishib/Fabishib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fabiola Shibao, a Product Manager with a multidisciplinary career. Currently, I am a PM at Astride US, a startup specializing in accounting and tax services. My professional journey has taken me through diverse roles, each contributing to my expertise in product management and business strategy.
 
-Here are some ideas to get you started:
+> Whether you think you can, or you think you can't, you're right - Henry Ford
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+With a background in accounting and a postgraduate degree in corporate finance, I built a multidisciplinary foundation through my career at companies such as Deloitte and Serasa Experian and banking institutions like Safra and Santander. I gained years of experience in the financial sector, analyzing businesses in industries, retail, and services with a focus on risk and credit.
+
+Seeking new challenges and growth opportunities, I transitioned to product management in an e-commerce setting. For five years, I was responsible for strategic planning, operational management, and overseeing the entire product lifecycle.
+
+This journey has significantly enhanced my skill set, equipping me to effectively bridge the strategic gap between Technology, Product Development, and Business Vision.
+
+With a keen focus on agile innovation, I am continuously motivated to expand my knowledge through courses, mentorship, and participation in professional groups. My objective is to stay ahead of market trends and seek insights that enable me to create solutions that positively impact people's lives and add value.
