@@ -45,3 +45,12 @@ With a keen focus on agile innovation, I am continuously motivated to expand my 
 ## Languages
 - Portuguese (native) 
 - English (intermediary)
+
+## Experience
+- Astride US (03/2023 - current)
+  - Product Manager 
+    - Responsible for developing the "Digital Accounting" product with a focus on banking integrations and process automation.
+
+- Always Lively Onco Store (02/2018 - 12/2022)
+  - Founder / Product Manager 
+    
